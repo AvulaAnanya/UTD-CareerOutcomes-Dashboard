@@ -25,12 +25,6 @@ This dashboard visualizes post-graduation career outcomes of UT Dallas students.
 
 ---
 
-##  Dashboard Preview
-
-![Career Outcomes Dashboard](./assets/PostGradCareerOutcomes.png)
-
----
-
 ## 🔗 Live Dashboard Link
 
 👉 [View the live dashboard on UTD Website](https://career.utdallas.edu/career-outcomes/)  
